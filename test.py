@@ -1,1 +1,1 @@
-print("Wassup Buddy pratiksha !! v812345"
+print("Wassup Buddy pratiksha !! v812345")
